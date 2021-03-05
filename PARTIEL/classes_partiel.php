@@ -1,7 +1,6 @@
 <?php
 
 //Définition de la classe Article
-
 class Article {
 	//Attributs
 	protected $reference;
@@ -100,7 +99,7 @@ class Imprimante extends Article {
 	
 	class Lot extends Article {
 
-		//Attributs
+		//Attribut
 			public $nbreart;
 			private $prixlot;
 			private $bonus;
