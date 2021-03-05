@@ -99,7 +99,7 @@ class Imprimante extends Article {
 	
 	class Lot extends Article {
 
-		//Attribut
+		//Attributs
 			public $nbreart;
 			private $prixlot;
 			private $bonus;

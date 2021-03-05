@@ -1,5 +1,4 @@
 <?php
-//
 require "classes_partiel.php";
 
 $lot = array(new Lot(45000, "Asus", 400, 100, 20),
