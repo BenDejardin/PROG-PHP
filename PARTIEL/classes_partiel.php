@@ -5,7 +5,7 @@
 class Article {
 	//Attributs
 	protected $reference;
-	protected $marque;
+	//protected $marque;
 	protected $punit;
 
 	//Constructeur
