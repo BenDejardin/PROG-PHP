@@ -1,6 +1,7 @@
 <?php
 
 //Définition de la classe Article
+
 class Article {
 	//Attributs
 	protected $reference;
